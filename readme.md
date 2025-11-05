@@ -13,7 +13,7 @@ Copier le scale dans la postion
 Google une texture > Creer un materiel > Check BAseMAp/Albedo pis glisser la texture la dessus > Glisser le materiel sur le mur
 
 
-##G Commandes GIT
+## Commandes GIT
 
 ### Init
 ```
