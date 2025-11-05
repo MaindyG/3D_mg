@@ -12,6 +12,9 @@ Copier le scale dans la postion
 ### Texture
 Google une texture > Creer un materiel > Check BAseMAp/Albedo pis glisser la texture la dessus > Glisser le materiel sur le mur
 
+
+##G Commandes GIT
+
 ### Init
 ```
 git init
@@ -36,16 +39,6 @@ git commit -m "W9"
 ### Push
 ```
 git push -u origin main
-```
-
-### Lancer le serveur en mode prod [BD: MongoDB Atlas Cloud  ] 
-```
-npm run start
-```
-
-### Tester les routes POSTMAN
-```
-npm test
 ```
 
 
